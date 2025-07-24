@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **[Technology/Framework you're learning]**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, Python**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **TylerGoyea@gmail.com**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Tech Stack
@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TylerG21566&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@
   <a href="https://twitter.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:TylerGoyea@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-portfolio-website.com">
