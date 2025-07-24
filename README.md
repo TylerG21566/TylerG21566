@@ -1,125 +1,197 @@
-# Hey, I'm Tyler 👋
+# Hi there, I'm Tyler Goyea 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=System.out.println;println;yeild+internship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JavaScript+Enthusiast;Always+learning+new+things;Open+to+collaboration!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- 👷🏾‍♂️ Role: IBM cloud storage infrastructure(Python, Java, C)
-- 🔭 I'm currently working on **Market Data realtime analyser(C++), Slackbot with Jira connectivity to track tickets(IBM internal use, Golang)**
-- 🌱 I'm currently learning **C++, Golang**
-- 👯 I'm looking to collaborate on **Open Source Projects, Patents**
-- 💬 Ask me about **JavaScript, React, Node.js, Python, Java, C**
+- 🔭 I'm currently working on **Machine Learning Projects**
+- 🌱 I'm currently learning **PyTorch & FastAPI**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, JavaScript, Data Science, Web Development**
 - 📫 How to reach me: **TylerGoyea@gmail.com**
-- ⚡ Fun fact: **Certified PADI Advanced Scuba Diver**
+- ⚡ Fun fact: **I love combining AI with web development!**
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## 🛠️ Languages and Tools
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+<td><b>Category</b></td>
+<td><b>Tools & Technologies</b></td>
+<td><b>Learning</b></td>
+</tr>
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<tr>
+<td><b>Computer Vision & ML/AI</b></td>
+<td>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <br/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+</td>
+<td>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</td>
+</tr>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<tr>
+<td><b>Data Science & Analysis</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <br/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</td>
+<td>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+</td>
+</tr>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<tr>
+<td><b>Programming Languages</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</td>
+<td>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</td>
+</tr>
 
-## 📊 GitHub Stats
+<tr>
+<td><b>Web Development</b></td>
+<td>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</td>
+<td>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</td>
+</tr>
+
+<tr>
+<td><b>DevOps & Cloud</b></td>
+<td>
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</td>
+<td>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" />
+</td>
+</tr>
+
+<tr>
+<td><b>Embedded Systems/IoT</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
+</td>
+<td></td>
+</tr>
+
+</table>
+
+---
+
+## ⚡ All-time GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TylerG21566&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<table>
+<tr>
+<td>
+
+### Tyler's GitHub Stats
+<div align="center">
+
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerG21566&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TylerG21566&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9)
+
 </div>
 
+</td>
+<td>
+
+### Most Used Languages
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerG21566&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerG21566&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+#### Language Breakdown
+![Python](https://img.shields.io/badge/Python-44.49%25-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/>
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-16.34%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<br/>
+![HTML](https://img.shields.io/badge/HTML-14.50%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-13.39%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/>
+![CSS](https://img.shields.io/badge/CSS-4.88%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerG21566&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</td>
+</tr>
+</table>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TylerG21566&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TylerG21566&theme=github-dark&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
+## 🔥 Featured Repositories
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylerG21566&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/TylerG21566/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerG21566&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/TylerG21566/ml-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerG21566&repo=ml-projects&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="ML Projects" />
   </a>
-  <a href="https://github.com/TylerG21566/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerG21566&repo=project2&theme=radical&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/TylerG21566/web-development">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerG21566&repo=web-development&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Web Development" />
   </a>
 </div>
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/TylerG21566">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/tyler-goyea">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/TylerG21566">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:TylerGoyea@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-## 💰 Support My Work
-
-<div align="center">
-  <a href="https://buymeacoffee.com/TylerG21566">
-    <img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://github.com/sponsors/TylerG21566">
-    <img src="https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  <a href="https://github.com/TylerG21566">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TylerG21566&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3>Thanks for visiting! 😊</h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://komarev.com/ghpvc/?username=TylerG21566&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  ### Thanks for stopping by! 👨‍💻
+  
+  *Always excited to collaborate on interesting projects and learn new technologies!*
 </div>
