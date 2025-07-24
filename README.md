@@ -54,43 +54,43 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerG21566&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerG21566&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TylerG21566&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TylerG21566&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/TylerG21566/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerG21566&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/TylerG21566/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerG21566&repo=project2&theme=radical&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/TylerG21566">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://twitter.com/TylerG21566">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:TylerGoyea@gmail.com">
@@ -104,10 +104,10 @@
 ## 💰 Support My Work
 
 <div align="center">
-  <a href="https://buymeacoffee.com/YOUR_USERNAME">
+  <a href="https://buymeacoffee.com/TylerG21566">
     <img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-  <a href="https://github.com/sponsors/YOUR_USERNAME">
+  <a href="https://github.com/sponsors/TylerG21566">
     <img src="https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
   </a>
 </div>
@@ -115,7 +115,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TylerG21566&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
