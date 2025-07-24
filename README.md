@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hey, I'm Tyler 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
@@ -6,12 +6,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Python**
+- 👷🏾‍♂️ Role: IBM cloud storage infrastructure(Python, Java, C)
+- 🔭 I'm currently working on **Market Data realtime analyser(C++), Slackbot with Jira connectivity to track tickets(IBM internal use, Golang)**
+- 🌱 I'm currently learning **C++, Golang**
+- 👯 I'm looking to collaborate on **Open Source Projects, Patents**
+- 💬 Ask me about **JavaScript, React, Node.js, Python, Java, C**
 - 📫 How to reach me: **TylerGoyea@gmail.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- ⚡ Fun fact: **Certified PADI Advanced Scuba Diver**
 
 ## 🛠️ Tech Stack
 
