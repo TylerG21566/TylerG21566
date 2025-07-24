@@ -152,11 +152,11 @@
 </table>
 </div>
 
-## 🏆 GitHub Achievements
+<!--## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TylerG21566&theme=github-dark&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+</div>-->
 
 ## 🔥 Featured Repositories
 
@@ -185,7 +185,5 @@
 
 --------
   
-  ### Thanks for stopping by! 👨‍💻
-  
-  *Always excited to collaborate on interesting projects and learn new technologies!*
+  ### Thanks for stopping by! 🧑🏽‍💻
 </div>
