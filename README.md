@@ -132,7 +132,7 @@
 </table>
 </div>
 
-## 🏆 GitHub Achievements
+<!--## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TylerG21566&theme=github-dark&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -147,7 +147,7 @@
   <a href="https://github.com/TylerG21566/web-development">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TylerG21566&repo=web-development&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Web Development" />
   </a>
-</div>
+</div>-->
 
 ## 🤝 Connect With Me
 
