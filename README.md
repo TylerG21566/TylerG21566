@@ -6,12 +6,14 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Machine Learning Projects**
-- 🌱 I'm currently learning **PyTorch & FastAPI**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, Data Science, Web Development**
-- 📫 How to reach me: **TylerGoyea@gmail.com**
-- ⚡ Fun fact: **I love combining AI with web development!**
+- **Interests: Machine Learning, backend, infrastructure**
+- 🔭 Side projects in development: **High frequency Market Data processor(C++), slack-jira ticket management bot for IBM internal use (Golang)**
+- 🌱 I'm currently learning **C++, Golang**
+- 👯 I'm looking to collaborate on **Open Source Projects and Patents**
+- 📫 How to reach me: <a href="https://linkedin.com/in/tylergoyea">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+- ⚡ Fun fact: **I am Certified PADI advanced Scuba Diver**
 
 ---
 
@@ -152,11 +154,8 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/tyler-goyea">
+  <a href="https://linkedin.com/in/tylergoyea">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/TylerG21566">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:TylerGoyea@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
