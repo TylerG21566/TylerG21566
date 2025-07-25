@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **C++, Golang**
 - 👯 I'm looking to collaborate on **Open Source Projects and Patents**
 - 📫 How to reach me: <a href="https://linkedin.com/in/tylergoyea">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   My LinkedIn
   </a>
 - ⚡ Fun fact: **I am Certified PADI advanced Scuba Diver**
 
