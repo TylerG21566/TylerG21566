@@ -1,7 +1,7 @@
 # Hi there, I'm Tyler Goyea 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JavaScript+Enthusiast;Always+learning+new+things;Open+to+collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=println;System.out.println;print;yeild+internship" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
