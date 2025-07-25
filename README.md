@@ -103,10 +103,8 @@
 <tr>
 <td>
 
-### Tyler's GitHub Stats
+### 📊  GitHub Stats
 <div align="center">
-
-## 📊 Detailed GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TylerG21566&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats with All Commits" />
