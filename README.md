@@ -1,7 +1,8 @@
 # Hi there, I'm Tyler Goyea 👋
 
 <div align="center">
-  <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=nlohmann::json+json=nlohmann::json::parse(response_data)["Time+Series+(Daily)"];System.out.println;print;yeild+internship" alt="Typing SVG' />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=nlohmann%3A%3Ajson+json+%3D+nlohmann%3A%3Ajson%3A%3Aparse%28response_data%29%5B%22Time+Series+%28Daily%29%22%5D%3B;System.out.println%28%29%3B;print%28%29%3B;yield+internship" alt="Typing SVG" />
+
 </div>
 
 ## 🚀 About Me
