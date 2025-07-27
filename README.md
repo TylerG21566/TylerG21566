@@ -11,7 +11,7 @@
 - **Interests: Machine Learning, backend, infrastructure**
 - Main langauges: **Python, Java, C/C++, Typescript**
 - 🔭 Side projects in development: **High frequency Market Data processor(C++), slack-jira ticket management bot for IBM internal use (Golang)**
-- 🌱 I'm currently learning **C++, Golang**
+- 🌱 I'm currently learning **C++**
 - 👯 I'm looking to collaborate on **Open Source Projects and Patents**
 - 📫 How to reach me: <a href="https://linkedin.com/in/tylergoyea">
    My LinkedIn
